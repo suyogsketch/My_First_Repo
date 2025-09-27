@@ -2,3 +2,5 @@ Name: Bhagirath Vishnu Dangat
 Branch: BBA-CA
 F Subject: Cloud Computing
 F Teacher : Priti Bharambe
+name:suyog ganesh kale
+
